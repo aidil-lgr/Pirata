@@ -245,7 +245,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a3560c440a68f16449637ab85bbe36be, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  vida: 10
+  vida: 3
   tocat: {fileID: 8300000, guid: 6e5c52de10a10204b9f90de6b2a3e5b4, type: 3}
   enfonsat: {fileID: 8300000, guid: 777f87f78d87d8c419f9b3a2a98cb513, type: 3}
 --- !u!114 &3706393381333608869
@@ -275,12 +275,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   velocitat: 2
-  BasicShot: {fileID: 8300000, guid: 8c4d17618ee61fe4296e1b89eb4a9f4a, type: 3}
+  control: {fileID: 0}
   missil: {fileID: 2441518190771406998, guid: 80b986dcc3c301143b8746dd27140aad, type: 3}
   canons:
   - {fileID: 4075329037476424478}
   - {fileID: 8683928960561161562}
   - {fileID: 7276125794243217074}
+  BasicShot: {fileID: 8300000, guid: 8c4d17618ee61fe4296e1b89eb4a9f4a, type: 3}
   cadencia: 0.5
 --- !u!1 &3616640699415354626
 GameObject:

@@ -19,7 +19,7 @@ public class ScrCollision : MonoBehaviour
     /// ----------------------------------------------------------------------------------
     /// </summary>
 
-    [SerializeField] float vida = 0f;
+    [SerializeField] public float vida = 3f;
 
     [SerializeField] AudioClip tocat, enfonsat;
 

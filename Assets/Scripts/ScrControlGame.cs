@@ -12,15 +12,23 @@ public class ScrControlGame : MonoBehaviour
     ///         o controlar si un objecte és visible per la càmera.
     /// AUTOR:  Lídia García Romero
     /// DATA:   15/03/2021
-    /// VERSIÓ: 1.0
+    /// VERSIÓ: 2.0
     /// CONTROL DE VERSIONS
     ///         1.0: Controla correctament si un objecte és visible per càmera.
+    ///         2.0: Solucionar alguns problemes respecte la vida
     /// ----------------------------------------------------------------------------------
     /// </summary>
 
     public int monedes = 0;
     public int municio = 10;
-    public int vida = 3;
+    public float vida= 3;
+
+    [SerializeField] GameObject player;
+
+    private void Update()
+    {
+        vida = player.GetComponent<ScrCollision>().vida;
+    }
 
     static public bool EsVisibleDesde(Renderer renderer, Camera camera) //per comprobar si un objecte es troba dins del camp de càmera o no
     {

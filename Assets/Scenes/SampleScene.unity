@@ -6195,6 +6195,7 @@ GameObject:
   - component: {fileID: 1763885554}
   - component: {fileID: 1763885553}
   - component: {fileID: 1763885552}
+  - component: {fileID: 1763885556}
   m_Layer: 5
   m_Name: UICanvas
   m_TagString: Untagged
@@ -6283,6 +6284,22 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
+--- !u!114 &1763885556
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1763885551}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5a8fd3065086674f898dd51604136a8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  monedesT: {fileID: 1917278278}
+  vidaT: {fileID: 1286544372}
+  municioT: {fileID: 2107091804}
+  control: {fileID: 275803349}
 --- !u!4 &1771792961 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 7656534040061020487, guid: 8908034068afad647946d417b075fecf,
@@ -8545,6 +8562,16 @@ PrefabInstance:
       propertyPath: m_SortingOrder
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4276047992051907009, guid: 8908034068afad647946d417b075fecf,
+        type: 3}
+      propertyPath: vida
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4276047992051907009, guid: 8908034068afad647946d417b075fecf,
+        type: 3}
+      propertyPath: control
+      value: 
+      objectReference: {fileID: 275803349}
     - target: {fileID: 6402994903352989769, guid: 8908034068afad647946d417b075fecf,
         type: 3}
       propertyPath: velocitat
