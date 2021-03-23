@@ -663,6 +663,7 @@ MonoBehaviour:
   monedes: 0
   municio: 10
   vida: 3
+  player: {fileID: 1068444011}
 --- !u!4 &275803351
 Transform:
   m_ObjectHideFlags: 0
@@ -1831,7 +1832,7 @@ PrefabInstance:
     - target: {fileID: 3301605659648963783, guid: 7feb3dda0b1fb84438feac7c85a6dbfd,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 3301605659648963783, guid: 7feb3dda0b1fb84438feac7c85a6dbfd,
         type: 3}
@@ -3784,6 +3785,12 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1068444011 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1873302933911447232, guid: 8908034068afad647946d417b075fecf,
+    type: 3}
+  m_PrefabInstance: {fileID: 2125853481}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1074493553
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4973,7 +4980,7 @@ PrefabInstance:
     - target: {fileID: 3301605659648963783, guid: 7feb3dda0b1fb84438feac7c85a6dbfd,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 3301605659648963783, guid: 7feb3dda0b1fb84438feac7c85a6dbfd,
         type: 3}
@@ -8552,30 +8559,20 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1864111523}
     m_Modifications:
+    - target: {fileID: 703115202309846424, guid: 8908034068afad647946d417b075fecf,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1873302933911447232, guid: 8908034068afad647946d417b075fecf,
         type: 3}
       propertyPath: m_Name
       value: Player
       objectReference: {fileID: 0}
-    - target: {fileID: 2829711400606410871, guid: 8908034068afad647946d417b075fecf,
+    - target: {fileID: 2487518620988910209, guid: 8908034068afad647946d417b075fecf,
         type: 3}
-      propertyPath: m_SortingOrder
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4276047992051907009, guid: 8908034068afad647946d417b075fecf,
-        type: 3}
-      propertyPath: vida
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 4276047992051907009, guid: 8908034068afad647946d417b075fecf,
-        type: 3}
-      propertyPath: control
-      value: 
-      objectReference: {fileID: 275803349}
-    - target: {fileID: 6402994903352989769, guid: 8908034068afad647946d417b075fecf,
-        type: 3}
-      propertyPath: velocitat
-      value: 2
+      propertyPath: m_LocalPosition.z
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6402994903352989769, guid: 8908034068afad647946d417b075fecf,
         type: 3}

@@ -8,7 +8,7 @@ using UnityEngine;
 ///         Script utilitzat per controlar el player 
 /// AUTOR:  Elisabet Arnal
 /// DATA:   17/03/2021
-/// VERSIÓ: 5.0
+/// VERSIÓ: 6.0
 /// CONTROL DE VERSIONS
 ///         1.0: Moviment player i dispar(Aquest ultim no funciona)
 ///         2.0: Programació tripleshot(PROTOTIP). El dispar basic i el triple funcionen. 
