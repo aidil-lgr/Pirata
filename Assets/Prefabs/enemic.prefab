@@ -206,8 +206,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   vida: 2
-  tocat: {fileID: 0}
-  enfonsat: {fileID: 0}
+  tocat: {fileID: 8300000, guid: 6e5c52de10a10204b9f90de6b2a3e5b4, type: 3}
+  enfonsat: {fileID: 8300000, guid: 777f87f78d87d8c419f9b3a2a98cb513, type: 3}
 --- !u!114 &7519162233449702046
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -225,3 +225,4 @@ MonoBehaviour:
   cadenciaMin: 1
   cadenciaMax: 3
   render: {fileID: 8483318687435935120}
+  shot: {fileID: 8300000, guid: 8c4d17618ee61fe4296e1b89eb4a9f4a, type: 3}

@@ -10,10 +10,11 @@ public class ScrPickup : MonoBehaviour
     ///         Script utilitzat per moure els pickups
     /// AUTOR:  Eric Clot Martín
     /// DATA:   21/03/2021
-    /// VERSIÓ: 2.0
+    /// VERSIÓ: 3.0
     /// CONTROL DE VERSIONS
-    ///         1.0: ...es mouen.
-    ///         2.0: colisionen
+    ///         1.0: Es creen i es mouen correctament.
+    ///         2.0: Ara colisionen correctament.
+    ///         3.0: Lidia: neteja de codi i s'afegeix so.
     /// ----------------------------------------------------------------------------------
     /// </summary>
 
@@ -23,9 +24,11 @@ public class ScrPickup : MonoBehaviour
     [SerializeField] bool esBarril;
     [SerializeField] bool esMoneda;
 
+    [SerializeField] AudioClip so;
+
     Vector2 moviment = new Vector2();
     public GameObject control;
-    // Start is called before the first frame update
+
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
@@ -33,7 +36,6 @@ public class ScrPickup : MonoBehaviour
         moviment.x = -2;
     }
 
-    // Update is called once per frame
     void Update()
     {
         rb.velocity = moviment;
@@ -56,6 +58,7 @@ public class ScrPickup : MonoBehaviour
                 control.GetComponent<ScrControlGame>().monedes += 1;
             }
 
+            if(so) AudioSource.PlayClipAtPoint(so, Camera.main.transform.position);
             Destroy(gameObject);
         }
     }

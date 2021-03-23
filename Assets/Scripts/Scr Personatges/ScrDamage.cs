@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class ScrDamage : MonoBehaviour
 {
-
     /// <summary>
     /// ----------------------------------------------------------------------------------
     /// DESCRIPCIÓ
@@ -20,7 +19,4 @@ public class ScrDamage : MonoBehaviour
 
     public float damageNPC = 0f; //quantitat de mal que fa a un NPC
     public float damagePlayer = 0f; //quantitat de mal que fa al player
-
-
-
 }

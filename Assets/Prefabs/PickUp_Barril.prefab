@@ -96,12 +96,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84d52b372530d76498d08517c37b528f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  rb: {fileID: 0}
-  col: {fileID: 0}
   esRon: 0
   esBarril: 1
   esMoneda: 0
-  control: {fileID: 0}
+  so: {fileID: 8300000, guid: 96e078c46bf04b748bb3161a39054ebb, type: 3}
 --- !u!50 &4232218565180741261
 Rigidbody2D:
   serializedVersion: 4

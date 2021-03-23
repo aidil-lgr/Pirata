@@ -4,18 +4,17 @@ using UnityEngine;
 
 public class ScrCollision : MonoBehaviour
 {
-
     /// <summary>
     /// ----------------------------------------------------------------------------------
     /// DESCRIPCIÓ
     ///         Script utilitzat per detectar colisions. "Mira" el que fan, resten vida,
     ///         els destrueix si aquesta arriba a 0, reprodueixen audio...
-    /// AUTOR:  Lídia Garía Romero i Elisabet Arnal
+    /// AUTOR:  Lídia Garía Romero
     /// DATA:   15/03/2021
-    /// VERSIÓ: 1.0
+    /// VERSIÓ: 3.0
     /// CONTROL DE VERSIONS
     ///         1.0: No es pot comprovar el seu funcionament perquè el Player no està programat.
-    ///         2.0: S'ha afegit els audios de tocat i enfonsat del player. El player no es destueix.
+    ///         2.0: Eli: S'ha afegit els audios de tocat i enfonsat del player. El player no es destueix.
     ///         3.0: S'han corregit els errors de quan els personatges no es destruien.
     /// ----------------------------------------------------------------------------------
     /// </summary>

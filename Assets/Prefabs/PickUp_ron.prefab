@@ -164,9 +164,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84d52b372530d76498d08517c37b528f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  rb: {fileID: 7236177849327457104}
-  col: {fileID: 7236177849327457105}
   esRon: 1
   esBarril: 0
   esMoneda: 0
-  control: {fileID: 0}
+  so: {fileID: 8300000, guid: 69879bc7073859a4f8b21e0a67be3555, type: 3}

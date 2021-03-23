@@ -4,16 +4,16 @@ using UnityEngine;
 
 public class ScrEnemics : MonoBehaviour
 {
-
     /// <summary>
     /// ----------------------------------------------------------------------------------
     /// DESCRIPCIÓ
     ///         Script utilitzat per controlars els vaixells enemics.
     /// AUTOR:  Lídia García Romero
     /// DATA:   15/03/2021
-    /// VERSIÓ: 1.0
+    /// VERSIÓ: 2.0
     /// CONTROL DE VERSIONS
-    ///         1.0: 
+    ///         1.0: Es creen i funcionen amb 3 moviments inicials
+    ///         2.0: neteja de codi
     /// ----------------------------------------------------------------------------------
     /// </summary>
 
@@ -48,7 +48,7 @@ public class ScrEnemics : MonoBehaviour
     {
         CalculaMoviment(tipusMoviment);
         rb.velocity = moviment;
-        if (ScrControlGame.EsVisibleDesde(rend, Camera.main))
+        if (ScrControlGame.EsVisibleDesde(rend, Camera.main)) //quan sigui visible per càmera, s'activa el collider
         {
             col.enabled = true;
         }
@@ -58,8 +58,7 @@ public class ScrEnemics : MonoBehaviour
     {
         switch (tipus)
         {
-                
-                
+            //Deficnició dels diferents moviments_______________________________________
             case 1: //moviment a velocitat x constant
                 moviment.x = velX;
                 moviment.y = 0;
@@ -76,8 +75,9 @@ public class ScrEnemics : MonoBehaviour
                 float amplitud = 1f, freq = 2;
                 moviment.y = amplitud * Mathf.Sin(freq * Time.time + desfase);
                 break;
-
-
+            case 4:
+                break;
+            //__________________________________________________________________________
         }
     }
 

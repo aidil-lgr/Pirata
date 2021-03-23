@@ -10,51 +10,43 @@ public class ScrKraken : MonoBehaviour
     ///         Script utilitzat per determinar el comportament del Kraken.
     /// AUTOR:  Eric Clot Martín
     /// DATA:   21/03/2021
-    /// VERSIÓ: 1.0
+    /// VERSIÓ: 2.0
     /// CONTROL DE VERSIONS
-    ///         1.0: 
+    ///         1.0: Es crea i funciona correctament
+    ///         2.0: Lidia: neteja e codi
     /// ----------------------------------------------------------------------------------
     /// </summary>
-    
 
-    [SerializeField] float velX = 1f, velY = 1;
+
+    [SerializeField] float velX = 1f;
     Vector2 moviment = new Vector2();
+
     Rigidbody2D rb;
+    Renderer r;
+    Collider2D col;
 
-    [SerializeField] float elast = 1;  // per a funció 'seguir player'
-
-    GameObject player;
-    [SerializeField] GameObject explosio; // sist. partícules destrucció  *CAMBIAR*
-
-
-    // ********************** Shooting ************************
+    //Per disparar_____________________________________________________________
     [SerializeField] Transform tentacle1, tentacle2, tentacle3, tentacle4, tentacle5, tentacle6;  
     [SerializeField] GameObject tinta;
     [SerializeField] float cadenciaMin = 2f, cadenciaMax = 20f; // tiempo entre disparos
     float crono;
     bool isDestroyed = false;
     float nombre_tintes;
-    Renderer r;
-    Collider2D col;
-
+    //_________________________________________________________________________
 
     void Start()
     {
-
         rb = GetComponent<Rigidbody2D>();
         r = GetComponent<Renderer>();
         col = GetComponent<Collider2D>();
-        col.enabled = false;
+        col.enabled = false; //que no funcioni el collider fins que no aparegui per càmera
 
-        velY = Random.Range(-2f, 2f);
-        player = GameObject.FindGameObjectWithTag("Player");
         crono = Random.Range(cadenciaMin, cadenciaMax); // Preparem primer tret
-
     }
 
     void Update()
     {
-        if (ScrControlGame.EsVisibleDesde(r, Camera.main))
+        if (ScrControlGame.EsVisibleDesde(r, Camera.main)) //quan surt per càmera, s'activa el collider
         {
             col.enabled = true;
             crono -= Time.deltaTime;
@@ -69,13 +61,13 @@ public class ScrKraken : MonoBehaviour
     void Dispara()
     {
         GameObject p1;
-        p1 = Instantiate(tinta, tentacle1.position, tentacle1.rotation);        //dispara d'1 a 6 trets de tinta alhora
+        p1 = Instantiate(tinta, tentacle1.position, tentacle1.rotation); //dispara d'1 a 6 trets de tinta alhora
         p1.transform.Rotate(0, 0, 0);
 
         if (nombre_tintes > 5)
         {
             GameObject p2;
-            p2 = Instantiate(tinta, tentacle2.position, tentacle2.rotation);        // els canons es diuen tentacles perquè la idea inicial era que disparés desde els tentacles
+            p2 = Instantiate(tinta, tentacle2.position, tentacle2.rotation); //els canons es diuen tentacles perquè la idea inicial era que disparés desde els tentacles
             p2.transform.Rotate(0, 0, -10);
         }
         else if (nombre_tintes > 4)
@@ -104,7 +96,6 @@ public class ScrKraken : MonoBehaviour
             p6.transform.Rotate(0, 0, 30);
         }
 
-
         crono = Random.Range(cadenciaMin, cadenciaMax); // Següent tret
     }
 
@@ -130,7 +121,6 @@ public class ScrKraken : MonoBehaviour
 
     void Destruccio() // indica com es destrueix l'objecte
     {
-        //Instantiate(explosio, transform.position, transform.rotation);
         isDestroyed = true;
         Destroy(gameObject);
     }

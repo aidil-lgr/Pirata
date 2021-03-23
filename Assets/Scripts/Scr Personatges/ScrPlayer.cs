@@ -52,13 +52,16 @@ public class ScrPlayer : MonoBehaviour
         crono += Time.deltaTime;
 
         if (ETCInput.GetButtonUp("Shoot")) crono = cadencia; //parmet disparar ràpid amb diversos clics
+        //_________________________________________________________________________
 
-        //if (Input.GetKeyDown(KeyCode.T)) 
-        //{
-            //DisparTriple(true);
-           // cronoPowerUp = 5;
-        //}
-        //if (cronoPowerUp > 0) cronoPowerUp -= Time.deltaTime; else DisparTriple(false);
+        //Triple Shot______________________________________________________________
+        if (Input.GetKeyDown(KeyCode.T)) 
+        {
+            DisparTriple(true);
+            cronoPowerUp = 5;
+        }
+        if (cronoPowerUp > 0) cronoPowerUp -= Time.deltaTime; else DisparTriple(false);
+        //_________________________________________________________________________
 
     }
 
@@ -78,7 +81,6 @@ public class ScrPlayer : MonoBehaviour
 
         AudioSource.PlayClipAtPoint(BasicShot, Camera.main.transform.position);
     }
-
 
     void DisparTriple(bool estat)
     {
