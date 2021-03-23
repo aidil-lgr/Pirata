@@ -196,7 +196,7 @@ BoxCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.19051647, y: 0.6932111}
+  m_Offset: {x: 0.16892052, y: -0.083174825}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -207,7 +207,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 4.568449, y: 4.277583}
+  m_Size: {x: 1.2616194, y: 1.6321197}
   m_EdgeRadius: 0
 --- !u!50 &9163162682642711475
 Rigidbody2D:
@@ -243,9 +243,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   velX: -2
-  velY: 0
-  elast: 1
-  explosio: {fileID: 0}
   tentacle1: {fileID: 9163162683123580249}
   tentacle2: {fileID: 9163162682125053288}
   tentacle3: {fileID: 9163162681967504615}
