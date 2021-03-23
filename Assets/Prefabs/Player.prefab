@@ -275,7 +275,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   velocitat: 2
-  BasicShot: {fileID: 0}
+  BasicShot: {fileID: 8300000, guid: 8c4d17618ee61fe4296e1b89eb4a9f4a, type: 3}
   missil: {fileID: 2441518190771406998, guid: 80b986dcc3c301143b8746dd27140aad, type: 3}
   canons:
   - {fileID: 4075329037476424478}
