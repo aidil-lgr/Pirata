@@ -55,7 +55,7 @@ public class ScrPickup : MonoBehaviour
             }
             else if (esMoneda)
             {
-                control.GetComponent<ScrControlGame>().monedes += 1;
+                control.GetComponent<ScrControlGame>().monedes += 5;
             }
 
             if(so) AudioSource.PlayClipAtPoint(so, Camera.main.transform.position);

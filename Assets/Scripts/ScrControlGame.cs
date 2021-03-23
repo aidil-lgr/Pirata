@@ -19,7 +19,7 @@ public class ScrControlGame : MonoBehaviour
     /// </summary>
 
     public int monedes = 0;
-    public int municio = 0;
+    public int municio = 10;
     public int vida = 3;
 
     static public bool EsVisibleDesde(Renderer renderer, Camera camera) //per comprobar si un objecte es troba dins del camp de càmera o no
