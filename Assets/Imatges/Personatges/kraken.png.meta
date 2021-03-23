@@ -1,0 +1,1922 @@
+fileFormatVersion: 2
+guid: b104b15e4f98c8b4b9f889b0e6f9690d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2234748924019723986
+    second: kraken_0
+  - first:
+      213: -8956075173513221873
+    second: kraken_1
+  - first:
+      213: 7343785125280686363
+    second: kraken_2
+  - first:
+      213: -6127495545683802050
+    second: kraken_3
+  - first:
+      213: -1926137854483141643
+    second: kraken_4
+  - first:
+      213: -2839199951497791677
+    second: kraken_5
+  - first:
+      213: -8096692139881045848
+    second: kraken_6
+  - first:
+      213: 7972269950337863644
+    second: kraken_7
+  - first:
+      213: -1468512103765278264
+    second: kraken_8
+  - first:
+      213: 8382470057146255432
+    second: kraken_9
+  - first:
+      213: -5887932382124223916
+    second: kraken_10
+  - first:
+      213: -1838964937910029656
+    second: kraken_11
+  - first:
+      213: -2900296544468613538
+    second: kraken_12
+  - first:
+      213: -7141559222008501785
+    second: kraken_13
+  - first:
+      213: -2665939149944647819
+    second: kraken_14
+  - first:
+      213: -473666173289806872
+    second: kraken_15
+  - first:
+      213: -791199083432958219
+    second: kraken_16
+  - first:
+      213: -9056778068669280669
+    second: kraken_17
+  - first:
+      213: 4333622152754418516
+    second: kraken_18
+  - first:
+      213: 407996918488182392
+    second: kraken_19
+  - first:
+      213: -957844779199021932
+    second: kraken_20
+  - first:
+      213: 7800457276755805812
+    second: kraken_21
+  - first:
+      213: -724276619079353234
+    second: kraken_22
+  - first:
+      213: 5389244727127296224
+    second: kraken_23
+  - first:
+      213: 8084891369485766664
+    second: kraken_24
+  - first:
+      213: -779036255761858966
+    second: kraken_25
+  - first:
+      213: 6026550196250473835
+    second: kraken_26
+  - first:
+      213: -8350494359217549034
+    second: kraken_27
+  - first:
+      213: 3130222023338260321
+    second: kraken_28
+  - first:
+      213: -2481251524635423027
+    second: kraken_29
+  - first:
+      213: 3827951926204584428
+    second: kraken_30
+  - first:
+      213: 3965265607132433949
+    second: kraken_31
+  - first:
+      213: 7454262691030741119
+    second: kraken_32
+  - first:
+      213: -5125292385444578285
+    second: kraken_33
+  - first:
+      213: 7845608001555548746
+    second: kraken_34
+  - first:
+      213: -6351617717418953123
+    second: kraken_35
+  - first:
+      213: -4958415165257570409
+    second: kraken_36
+  - first:
+      213: 5019291677783287865
+    second: kraken_37
+  - first:
+      213: -8748136350916068187
+    second: kraken_38
+  - first:
+      213: -6546331593787745532
+    second: kraken_39
+  - first:
+      213: -128764577309848754
+    second: kraken_40
+  - first:
+      213: 2100709417309166612
+    second: kraken_41
+  - first:
+      213: 1629982512423095813
+    second: kraken_42
+  - first:
+      213: 8682472040206492493
+    second: kraken_43
+  - first:
+      213: 5348146730357212819
+    second: kraken_44
+  - first:
+      213: -1492659366048548703
+    second: kraken_45
+  - first:
+      213: 2287537260310246706
+    second: kraken_46
+  - first:
+      213: -6860180959621549944
+    second: kraken_47
+  - first:
+      213: -3479002136383135528
+    second: kraken_48
+  - first:
+      213: -6940285618602518273
+    second: kraken_49
+  - first:
+      213: 9202553013858286015
+    second: kraken_50
+  - first:
+      213: 8769243797395932774
+    second: kraken_51
+  - first:
+      213: 4786007038781275117
+    second: kraken_52
+  - first:
+      213: 7109432083544908639
+    second: kraken_53
+  - first:
+      213: -963184472123332349
+    second: kraken_54
+  - first:
+      213: -5852895435370726876
+    second: kraken_55
+  - first:
+      213: 5474736537299776244
+    second: kraken_56
+  - first:
+      213: -5281761943727781678
+    second: kraken_57
+  - first:
+      213: -2079675238608288721
+    second: kraken_58
+  - first:
+      213: -5313780329297693257
+    second: kraken_59
+  - first:
+      213: 482419552902339807
+    second: kraken_60
+  - first:
+      213: -2367672827818895106
+    second: kraken_61
+  - first:
+      213: 6820962161531238923
+    second: kraken_62
+  - first:
+      213: -3037612613611959895
+    second: kraken_63
+  - first:
+      213: -2364249562609432921
+    second: kraken_64
+  - first:
+      213: 5691656630167250857
+    second: kraken_65
+  - first:
+      213: 2153441469660573795
+    second: kraken_66
+  - first:
+      213: 3691871392932906582
+    second: kraken_67
+  - first:
+      213: -2282402585345993167
+    second: kraken_68
+  - first:
+      213: -2190113484660440245
+    second: kraken_69
+  - first:
+      213: 7789994589198726253
+    second: kraken_70
+  - first:
+      213: -4016878948517146473
+    second: kraken_71
+  - first:
+      213: -2990005722857666949
+    second: kraken_72
+  - first:
+      213: 7366486204632441967
+    second: kraken_73
+  - first:
+      213: 9064329227875287940
+    second: kraken_74
+  - first:
+      213: 3663265820496727909
+    second: kraken_75
+  - first:
+      213: 1286700222874728574
+    second: kraken_76
+  - first:
+      213: -7411255036487209467
+    second: kraken_77
+  - first:
+      213: -6042108415926745892
+    second: kraken_78
+  - first:
+      213: 1577063386242570718
+    second: kraken_79
+  - first:
+      213: -7648527450053367838
+    second: kraken_80
+  - first:
+      213: -8207543403040646179
+    second: kraken_81
+  - first:
+      213: 8568315139770677818
+    second: kraken_82
+  - first:
+      213: 2486643458270738917
+    second: kraken_83
+  - first:
+      213: 7339583664275075690
+    second: kraken_84
+  - first:
+      213: -543074424874478321
+    second: kraken_85
+  - first:
+      213: -2192131563827129635
+    second: kraken_86
+  - first:
+      213: -3315015937146473547
+    second: kraken_87
+  - first:
+      213: 6301440182767796814
+    second: kraken_88
+  - first:
+      213: 3028344974269440878
+    second: kraken_89
+  - first:
+      213: -9005018168106745610
+    second: kraken_90
+  - first:
+      213: 6495325526425213478
+    second: kraken_91
+  - first:
+      213: 1585636547015846039
+    second: kraken_92
+  - first:
+      213: 8268790660077165447
+    second: kraken_93
+  - first:
+      213: -8383273385034378950
+    second: kraken_94
+  - first:
+      213: -5369363016206410907
+    second: kraken_95
+  - first:
+      213: 3374760736556471328
+    second: kraken_96
+  - first:
+      213: 6017506940132730125
+    second: kraken_97
+  - first:
+      213: -2878099468104294830
+    second: kraken_98
+  - first:
+      213: -3341602728978243459
+    second: kraken_99
+  - first:
+      213: -1836160742750666593
+    second: kraken_100
+  - first:
+      213: -5351871051658460398
+    second: kraken_101
+  - first:
+      213: 1516790784978163156
+    second: kraken_102
+  - first:
+      213: -1406647403095320037
+    second: kraken_103
+  - first:
+      213: 6968582954963647680
+    second: kraken_104
+  - first:
+      213: -2320652462913660816
+    second: kraken_105
+  - first:
+      213: 5042631167788266316
+    second: kraken_106
+  - first:
+      213: 2889570411481639595
+    second: kraken_107
+  - first:
+      213: -724809317558095914
+    second: kraken_108
+  - first:
+      213: -6369319489979554574
+    second: kraken_109
+  - first:
+      213: -4456172100097760310
+    second: kraken_110
+  - first:
+      213: 7565426844882563871
+    second: kraken_111
+  - first:
+      213: -5952751308351602153
+    second: kraken_112
+  - first:
+      213: 7259988018429569213
+    second: kraken_113
+  - first:
+      213: -3902653871515785555
+    second: kraken_114
+  - first:
+      213: -1523636238889022508
+    second: kraken_115
+  - first:
+      213: 348582357680015167
+    second: kraken_116
+  - first:
+      213: 8136762363386003292
+    second: kraken_117
+  - first:
+      213: -8894155841977587923
+    second: kraken_118
+  - first:
+      213: -7640274642596683570
+    second: kraken_119
+  - first:
+      213: -6004077299249086768
+    second: kraken_120
+  - first:
+      213: 2041598074928725794
+    second: kraken_121
+  - first:
+      213: 670932766827865181
+    second: kraken_122
+  - first:
+      213: 3410124509525017952
+    second: kraken_123
+  - first:
+      213: 3850039604030799943
+    second: kraken_124
+  - first:
+      213: -8298324269152502497
+    second: kraken_125
+  - first:
+      213: -3752460919002345885
+    second: kraken_126
+  - first:
+      213: -418789753192619665
+    second: kraken_127
+  - first:
+      213: -8737830237880030685
+    second: kraken_128
+  - first:
+      213: -3373506484287053288
+    second: kraken_129
+  - first:
+      213: 5112824973986860751
+    second: kraken_130
+  - first:
+      213: 1704214347231255704
+    second: kraken_131
+  - first:
+      213: 2484412822629249240
+    second: kraken_132
+  - first:
+      213: -1233951926055060364
+    second: kraken_133
+  - first:
+      213: 2332009351232660830
+    second: kraken_134
+  - first:
+      213: 4221242814935864452
+    second: kraken_135
+  - first:
+      213: -7632068229725127044
+    second: kraken_136
+  - first:
+      213: -7493632859027687416
+    second: kraken_137
+  - first:
+      213: -8137711243398073708
+    second: kraken_138
+  - first:
+      213: -3851984493251010421
+    second: kraken_139
+  - first:
+      213: -7385024079574334694
+    second: kraken_140
+  - first:
+      213: 7523061531632612093
+    second: kraken_141
+  - first:
+      213: 8732005409328690958
+    second: kraken_142
+  - first:
+      213: 817377137239833438
+    second: kraken_143
+  - first:
+      213: -6242763382674202519
+    second: kraken_144
+  - first:
+      213: 4361451862413880518
+    second: kraken_145
+  - first:
+      213: 4497219834564174175
+    second: kraken_146
+  - first:
+      213: -7897065185272767250
+    second: kraken_147
+  - first:
+      213: 6263809129694346356
+    second: kraken_148
+  - first:
+      213: -1195577151289495578
+    second: kraken_149
+  - first:
+      213: 244844239701691596
+    second: kraken_150
+  - first:
+      213: -3609710051570960327
+    second: kraken_151
+  - first:
+      213: -6937493053911144528
+    second: kraken_152
+  - first:
+      213: -3006529500009324228
+    second: kraken_153
+  - first:
+      213: 7851868707598703322
+    second: kraken_154
+  - first:
+      213: 4999561540782244340
+    second: kraken_155
+  - first:
+      213: -8344396615018668034
+    second: kraken_156
+  - first:
+      213: -2509259061600775486
+    second: kraken_157
+  - first:
+      213: 2315098710094592481
+    second: kraken_158
+  - first:
+      213: -3675166153526693613
+    second: kraken_159
+  - first:
+      213: 4178062027057201333
+    second: kraken_160
+  - first:
+      213: -3987068790216729751
+    second: kraken_161
+  - first:
+      213: 553340442348954433
+    second: kraken_162
+  - first:
+      213: -8995504146301857629
+    second: kraken_163
+  - first:
+      213: 425422285042385544
+    second: kraken_164
+  - first:
+      213: 4862658286494034094
+    second: kraken_165
+  - first:
+      213: 2175256260164324748
+    second: kraken_166
+  - first:
+      213: 3117411702715683724
+    second: kraken_167
+  - first:
+      213: 1673189097584320350
+    second: kraken_168
+  - first:
+      213: 5735887110788535568
+    second: kraken_169
+  - first:
+      213: -6690187653505022950
+    second: kraken_170
+  - first:
+      213: -7383585985795166029
+    second: kraken_171
+  - first:
+      213: 1119750726781207438
+    second: kraken_172
+  - first:
+      213: 389316494756264908
+    second: kraken_173
+  - first:
+      213: 7647706733550397217
+    second: kraken_174
+  - first:
+      213: 1045518010337604977
+    second: kraken_175
+  - first:
+      213: 2243822248236771883
+    second: kraken_176
+  - first:
+      213: -4954495389961869844
+    second: kraken_177
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kraken_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dec1626e4c630f10800000000000000
+      internalID: 2234748924019723986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kraken_1
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f09ac0db411a5b380800000000000000
+      internalID: -8956075173513221873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kraken_2
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b11272399ad5ae560800000000000000
+      internalID: 7343785125280686363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kraken_3
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e388abc1443c6faa0800000000000000
+      internalID: -6127495545683802050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kraken_4
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb691393dbf445e0800000000000000
+      internalID: -1926137854483141643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kraken_5
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347faa4dfa22998d0800000000000000
+      internalID: -2839199951497791677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kraken_6
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a061ba9565c2af80800000000000000
+      internalID: -8096692139881045848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kraken_7
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdfc86be74133ae60800000000000000
+      internalID: 7972269950337863644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kraken_8
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c185baa50cce9be0800000000000000
+      internalID: -1468512103765278264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kraken_9
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8480d80da14845470800000000000000
+      internalID: 8382470057146255432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kraken_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45257fda1bcd94ea0800000000000000
+      internalID: -5887932382124223916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kraken_11
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a27979d12faa76e0800000000000000
+      internalID: -1838964937910029656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kraken_12
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e56c7a3c8a310c7d0800000000000000
+      internalID: -2900296544468613538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kraken_13
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9a4c5a9b514ec90800000000000000
+      internalID: -7141559222008501785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kraken_14
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f0eb6c77ea00bd0800000000000000
+      internalID: -2665939149944647819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kraken_15
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e341feff133d69f0800000000000000
+      internalID: -473666173289806872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kraken_16
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f62d5520a81505f0800000000000000
+      internalID: -791199083432958219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kraken_17
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e4b67d45cdf4280800000000000000
+      internalID: -9056778068669280669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kraken_18
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 453d0bd236e142c30800000000000000
+      internalID: 4333622152754418516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kraken_19
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e21f3290f79a500800000000000000
+      internalID: 407996918488182392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kraken_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c31e98f3d05b2f0800000000000000
+      internalID: -957844779199021932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kraken_21
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47604aa809ac04c60800000000000000
+      internalID: 7800457276755805812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kraken_22
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c77a8904ad2f5f0800000000000000
+      internalID: -724276619079353234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kraken_23
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e8c110a6817aca40800000000000000
+      internalID: 5389244727127296224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kraken_24
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80012dd6ddd433070800000000000000
+      internalID: 8084891369485766664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kraken_25
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ef92427ae4035f0800000000000000
+      internalID: -779036255761858966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kraken_26
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b65f194397b92a350800000000000000
+      internalID: 6026550196250473835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kraken_27
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6115fe38f951d1c80800000000000000
+      internalID: -8350494359217549034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kraken_28
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1677e297858c07b20800000000000000
+      internalID: 3130222023338260321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kraken_29
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce85b372e2d09dd0800000000000000
+      internalID: -2481251524635423027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kraken_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce152badefd9f1530800000000000000
+      internalID: 3827951926204584428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kraken_31
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ec3319f04770730800000000000000
+      internalID: 3965265607132433949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kraken_32
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f70b5515c6cd27760800000000000000
+      internalID: 7454262691030741119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kraken_33
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31cbf8bfabd4fd8b0800000000000000
+      internalID: -5125292385444578285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kraken_34
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a4eabd8e231ec60800000000000000
+      internalID: 7845608001555548746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kraken_35
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d567a2c96558ad7a0800000000000000
+      internalID: -6351617717418953123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kraken_36
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797a9e19dab203bb0800000000000000
+      internalID: -4958415165257570409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kraken_37
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938e856003b18a540800000000000000
+      internalID: 5019291677783287865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kraken_38
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac37f4a650689680800000000000000
+      internalID: -8748136350916068187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kraken_39
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b5d527912c625a0800000000000000
+      internalID: -6546331593787745532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kraken_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b0bc59c49863ef0800000000000000
+      internalID: -128764577309848754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kraken_41
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41cd703c518372d10800000000000000
+      internalID: 2100709417309166612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kraken_42
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ec313857cde9610800000000000000
+      internalID: 1629982512423095813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kraken_43
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d43e4c0a1565e7870800000000000000
+      internalID: 8682472040206492493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kraken_44
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 396cb959d1f683a40800000000000000
+      internalID: 5348146730357212819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kraken_45
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8340c0732094be0800000000000000
+      internalID: -1492659366048548703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kraken_46
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2353343b407febf10800000000000000
+      internalID: 2287537260310246706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kraken_47
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 880fbd693cdbbc0a0800000000000000
+      internalID: -6860180959621549944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kraken_48
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d0ee005df918bfc0800000000000000
+      internalID: -3479002136383135528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kraken_49
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff8d17740072faf90800000000000000
+      internalID: -6940285618602518273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kraken_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb939b9753906bf70800000000000000
+      internalID: 9202553013858286015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kraken_51
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6660594b5cc92b970800000000000000
+      internalID: 8769243797395932774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kraken_52
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: debb31f5b005b6240800000000000000
+      internalID: 4786007038781275117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kraken_53
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f53a57600d6c9a260800000000000000
+      internalID: 7109432083544908639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kraken_54
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309aae563d412a2f0800000000000000
+      internalID: -963184472123332349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kraken_55
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42af83b8c9656cea0800000000000000
+      internalID: -5852895435370726876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kraken_56
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f2fa90dfdb2afb40800000000000000
+      internalID: 5474736537299776244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kraken_57
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8cde30f7963b6b0800000000000000
+      internalID: -5281761943727781678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kraken_58
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24c39a93628323e0800000000000000
+      internalID: -2079675238608288721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kraken_59
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b5b0c1b1f8a146b0800000000000000
+      internalID: -5313780329297693257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

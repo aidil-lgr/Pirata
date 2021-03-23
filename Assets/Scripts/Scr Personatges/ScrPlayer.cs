@@ -9,11 +9,12 @@ using UnityEngine;
 /// ----------------------------------------------------------------------------------
 /// DESCRIPCIÓ
 ///         Script utilitzat per controlar el player 
-/// AUTOR:  Elisabet 
+/// AUTOR:  Elisabet Arnal
 /// DATA:   17/03/2021
 /// VERSIÓ: 1.0
 /// CONTROL DE VERSIONS
 ///         1.0: Moviment player i dispar(Aquest ultim no funciona)
+///         2.0: Programació tripleshot. El dispar basic i el triple funcionen. 
 /// ----------------------------------------------------------------------------------
 /// </summary>
 
@@ -23,15 +24,17 @@ public class ScrPlayer : MonoBehaviour
 {
 
     [SerializeField] float velocitat;
+    
+    
 
     Vector2 movi = new Vector2(); //Calcul moviment
     Rigidbody2D rb;               //Per accedir al riggidbody
-    [SerializeField] AudioSource so;
+    [SerializeField] AudioSource BasicShot;
 
     //**************Dispar*************
     [SerializeField] GameObject missil;
     [SerializeField] Transform[] canons;
-    [SerializeField] float VDispar = 20f;
+    
 
     //*************Dispars Seguits**************
 
@@ -44,8 +47,8 @@ public class ScrPlayer : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        rb = GetComponent<Rigidbody2D>(); 
-        so = GetComponent<AudioSource>();
+        rb = GetComponent<Rigidbody2D>();
+        BasicShot = GetComponent<AudioSource>();
     }
 
     // Update is called once per frame
@@ -76,17 +79,25 @@ public class ScrPlayer : MonoBehaviour
     void Dispar()
     {
         foreach (Transform cano in canons)
-            if (cano.gameObject.activeSelf) Instantiate(missil, cano.position, cano.rotation);
-        so.Play();
+            if (cano.gameObject.activeSelf)
+            {
+                Instantiate(missil, cano.position, cano.rotation);
+            } 
         crono = 0;
-        print("hola");
+
+        BasicShot.Play();
+        
     }
 
 
     void DisparTriple(bool estat)
     {
-      
-      
+        canons[0].gameObject.SetActive(estat);
+        canons[2].gameObject.SetActive(estat);
+
+        
+
+
     }
 
     void Detruccio() 
