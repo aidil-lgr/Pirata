@@ -58,6 +58,8 @@ public class ScrEnemics : MonoBehaviour
     {
         switch (tipus)
         {
+                
+                
             case 1: //moviment a velocitat x constant
                 moviment.x = velX;
                 moviment.y = 0;
@@ -74,6 +76,8 @@ public class ScrEnemics : MonoBehaviour
                 float amplitud = 1f, freq = 2;
                 moviment.y = amplitud * Mathf.Sin(freq * Time.time + desfase);
                 break;
+
+
         }
     }
 

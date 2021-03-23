@@ -19,9 +19,9 @@ public class ScrControlGame : MonoBehaviour
     /// ----------------------------------------------------------------------------------
     /// </summary>
 
-    public static int monedes = 0;
-    public static int municio = 0;
-    public static int vida = 3;
+    public int monedes = 0;
+    public int municio = 0;
+    public int vida = 3;
 
     void Update()
     {
