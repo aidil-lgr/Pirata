@@ -33,7 +33,6 @@ public class ScrPlayer : MonoBehaviour
     float cronoPowerUp = 0f;
     //_________________________________________________________________________
 
-
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();

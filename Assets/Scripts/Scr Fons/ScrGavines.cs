@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class ScrGavines : MonoBehaviour
 {
-
     /// <summary>
     /// ----------------------------------------------------------------------------------
     /// DESCRIPCIÓ

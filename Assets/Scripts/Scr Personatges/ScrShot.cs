@@ -4,16 +4,16 @@ using UnityEngine;
 
 public class ScrShot : MonoBehaviour
 {
-
     /// <summary>
     /// ----------------------------------------------------------------------------------
     /// DESCRIPCIÓ
     ///         Script utilitzat per fer moure els trets (bombes, taques de tinta...)
     /// AUTOR:  Lídia García Romero
     /// DATA:   15/03/2021
-    /// VERSIÓ: 1.0
+    /// VERSIÓ: 2.0
     /// CONTROL DE VERSIONS
     ///         1.0: Funciona correctament (comprobat amb bombes dels enemics només)
+    ///         2.0: Sempre funciona.Neteja de codi
     /// ----------------------------------------------------------------------------------
     /// </summary>
 
@@ -29,7 +29,7 @@ public class ScrShot : MonoBehaviour
         transform.Translate(velocitat * Time.deltaTime, 0, 0);
     }
 
-    void Destruccio() //PROTOTIP com es destrueix l'objecte
+    void Destruccio()
     {
         Destroy(gameObject);
     }
