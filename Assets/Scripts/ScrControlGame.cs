@@ -15,7 +15,6 @@ public class ScrControlGame : MonoBehaviour
     /// VERSIÓ: 1.0
     /// CONTROL DE VERSIONS
     ///         1.0: Controla correctament si un objecte és visible per càmera.
-    ///         2.0: 
     /// ----------------------------------------------------------------------------------
     /// </summary>
 
@@ -23,10 +22,6 @@ public class ScrControlGame : MonoBehaviour
     public int municio = 0;
     public int vida = 3;
 
-    void Update()
-    {
-        
-    }
     static public bool EsVisibleDesde(Renderer renderer, Camera camera) //per comprobar si un objecte es troba dins del camp de càmera o no
     {
         Plane[] plans = GeometryUtility.CalculateFrustumPlanes(camera);

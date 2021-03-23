@@ -661,7 +661,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   monedes: 0
-  municio: 0
+  municio: 10
   vida: 3
 --- !u!4 &275803351
 Transform:
