@@ -19,11 +19,15 @@ public class ScrControlGame : MonoBehaviour
     /// ----------------------------------------------------------------------------------
     /// </summary>
 
+    public static int monedes = 0;
+    public static int municio = 0;
+    public static int vida = 3;
+
     void Update()
     {
         
     }
-    static public bool EsVisibleDesde(Renderer renderer, Camera camera) //per comprobar si un objecte es troba d'ins del camp de càmera o no
+    static public bool EsVisibleDesde(Renderer renderer, Camera camera) //per comprobar si un objecte es troba dins del camp de càmera o no
     {
         Plane[] plans = GeometryUtility.CalculateFrustumPlanes(camera);
         return GeometryUtility.TestPlanesAABB(plans, renderer.bounds);
